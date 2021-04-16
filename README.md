@@ -18,24 +18,24 @@ In this project, we can get some understanding of Machine learning algorithm, ev
 8. Assignment 9 : Anomaly Detection + Recommender System
 
 ## Contents of Machine Learning Course
-● Supervised Learning 
+● Supervised Learning    
 Supervised Learning is model which is given a data sets and already know what our correct output should look like, having the idea that there is arelationship between the input and the output.
 
-1. Linear Regression
+1. Linear Regression  
 Linear Regression is model which there are some linear relation between feature and target value.
 
-1) Simple Linear Regression
+1) Simple Linear Regression  
 Single Linear Regression model is consisted of one feature and one targe varaible. We predict target variable with Hypothesis function H(x). And minimze Cost function J(theta), We can get more accurate model.
 
 2) Multivariate Linear Regression
 
 
-3) Polynomial Linear Regression
+3) Polynomial Linear Regression  
 Polynomial Linear Regression is applied when distribution of feature has polynomail plot. 
 
 4) Other non-linear Regression
 
-2. Logistic Regression
+2. Logistic Regression  
 Logistic Regression is model which predict discrete value 
 
 1) Binary Logistic Regression
@@ -43,13 +43,13 @@ Logistic Regression is model which predict discrete value
 2) Multiple Logistic Regression
 
 
-3. Neural Network
+3. Neural Network  
 +Sliding windows : In photo detection problem, Make some frame (m x n) and send them through all the phto frame. And Train it for detection
 
 4. Support Vector Machine
 
 
-●Unsupervised Learning
+●Unsupervised Learning  
 Unsupervised Learning is model which approach problems with little or no idea what our result should look like and derive structure from data where we don't necessarily know the effect of the variables.
 
 1. K-Means Clustering 
